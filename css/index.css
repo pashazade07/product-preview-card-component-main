@@ -53,6 +53,7 @@ button {
     width: 100%;
     padding: 1rem;
     cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
 }
 
 button:hover {
